@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098347376372",
+    "project_id": "mediqueue-4c88c",
+    "storage_bucket": "mediqueue-4c88c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098347376372:android:12341ce7e0e35fee0bb8a1",
+        "android_client_info": {
+          "package_name": "com.mediqueue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4l4CyAqgqgU0GhGzFGZd1hRc7EiWYNT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
